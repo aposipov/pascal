@@ -8,3 +8,5 @@ ubuntu
 ```
 sudo apt install fp-compiler
 ```
+
+интересная статья для изучения циклов https://habr.com/ru/post/456500/
